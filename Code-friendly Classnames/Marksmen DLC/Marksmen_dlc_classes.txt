@@ -1,0 +1,80 @@
+//Marksmen DLC Weapons
+	Weapon_srifle_DMR_02_F 					//MAR-10 .338 (Black)
+	Weapon_srifle_DMR_02_camo_F 			//MAR-10 .338 (Camo)
+	Weapon_srifle_DMR_02_sniper_F 			//MAR-10 .338 (Sand)
+	Weapon_srifle_DMR_03_F 					//Mk-I EMR 7.62mm (Black)
+	Weapon_srifle_DMR_03_multicam_F 		//Mk-I EMR 7.62mm (Camo)
+	Weapon_srifle_DMR_03_khaki_F 			//Mk-I EMR 7.62mm (Khaki)
+	Weapon_srifle_DMR_03_tan_F 				//Mk-I EMR 7.62mm (Sand)
+	Weapon_srifle_DMR_03_woodland_F 		//Mk-I EMR 7.62mm (Woodland)
+	Weapon_srifle_DMR_06_camo_F 			//Mk14 7.62mm (Camo)
+	Weapon_srifle_DMR_06_olive_F 			//Mk14 7.62mm (Olive)
+	Weapon_srifle_DMR_04_F 					//ASP-1 Kir 12.7mm (Black)
+	Weapon_srifle_DMR_04_Tan_F 				//ASP-1 Kir 12.7mm (Tan)
+	Weapon_srifle_DMR_05_blk_F 				//Cyrus 9.3mm (Black)
+	Weapon_srifle_DMR_05_hex_F 				//Cyrus 9.3mm (Hex)
+	Weapon_srifle_DMR_05_tan_f 				//Cyrus 9.3mm (Tan)
+	Weapon_MMG_01_hex_F 					//Navid 9.3mm (Hex)
+	Weapon_MMG_01_tan_F 					//Navid 9.3mm (Tan)
+	Weapon_MMG_02_black_F 					//SPMG .338 (Black)
+	Weapon_MMG_02_camo_F 					//SPMG .338 (MTP)
+	Weapon_MMG_02_sand_F 					//SPMG .338 (Sand)
+
+//Marksmen DLC Ammo
+	10Rnd_127x54_Mag 					//12.7mm 10Rnd Mag
+	10Rnd_338_Mag 						//.338 LM 10Rnd Mag
+	10Rnd_93x64_DMR_05_Mag 				//9.3mm 10Rnd Mag
+	130Rnd_338_Mag 						//.338 NM 130Rnd Belt
+	150Rnd_93x64_Mag 					//9.3mm 150Rnd Belt
+
+//Marksmen DLC Ghillies
+	U_I_FullGhillie_ard 				//Full Ghillie (Arid) (AAF)
+	U_O_FullGhillie_ard 				//Full Ghillie (Arid) (CSAT)
+	U_B_FullGhillie_ard 				//Full Ghillie (Arid) (NATO)
+	U_I_FullGhillie_lsh 				//Full Ghillie (Lush) (AAF)
+	U_O_FullGhillie_lsh 				//Full Ghillie (Lush) (CSAT)
+	U_B_FullGhillie_lsh 				//Full Ghillie (Lush) (NATO)
+	U_I_FullGhillie_sard 				//Full Ghillie (Semi-Arid) (AAF)
+	U_O_FullGhillie_sard 				//Full Ghillie (Semi-Arid) (CSAT)
+	U_B_FullGhillie_sard 				//Full Ghillie (Semi-Arid) (NATO)
+	
+//Marksmen DLC Bags
+	B_Static_Designator_01_weapon_F 	//Remote Designator Bag [NATO]
+	O_Static_Designator_02_weapon_F 	//Remote Designator Bag [CSAT]
+
+//Marksmen DLC Carrier Rigs
+	V_PlateCarrierGL_blk 				//Carrier GL Rig [Black]
+	V_PlateCarrierGL_mtp 				//Carrier GL Rig [MTP]
+	V_PlateCarrierIAGL_oli 				//GA Carrier GL Rig [Olive]
+	V_PlateCarrierSpec_blk 				//Carrier Special Rig [Black]
+	V_PlateCarrierSpec_mtp 				//Carrier Special Rig [MTP]
+
+//Marksmen DLC Optics
+	optic_AMS 							//AMS (Black)
+	optic_AMS_khk 						//AMS (Khaki)
+	optic_AMS_snd 						//AMS (Sand)
+	optic_KHS_blk 						//Kahlia (Black)
+	optic_KHS_hex 						//Kahlia (Hex)
+	optic_KHS_old 						//Kahlia (Old)
+	optic_KHS_tan						//Kahlia (Tan)
+	
+//Marksmen DLC Bipods	
+	bipod_01_F_blk 						//Bipod (Black) (NATO)
+	bipod_01_F_mtp 						//Bipod (MTP) (NATO)
+	bipod_01_F_snd 						//Bipod (Sand) (NATO)
+	bipod_02_F_blk 						//Bipod (Black) (CSAT)
+	bipod_02_F_hex 						//Bipod (Hex) (CSAT)
+	bipod_02_F_tan 						//Bipod (Tan) (CSAT)
+	bipod_03_F_blk 						//Bipod (Black) (AAF)
+	bipod_03_F_oli 						//Bipod (Olive) (AAF)
+	
+//Marksmen DLC Suppressors	
+	muzzle_snds_338_black 				//Sound Suppressor (.338, Black)
+	muzzle_snds_338_green 				//Sound Suppressor (.338, Green)
+	muzzle_snds_338_sand 				//Sound Suppressor (.338, Sand)
+	muzzle_snds_93mmg 					//Sound Suppressor (9.3mm, Black)
+	muzzle_snds_93mmg_tan 				//Sound Suppressor (9.3mm, Tan)
+
+//Marksmen DLC Laser-designators
+	Laserdesignator_02 					//Laser Designator (CSAT)
+	Laserdesignator_03 					//Laser Designator (AAF)
