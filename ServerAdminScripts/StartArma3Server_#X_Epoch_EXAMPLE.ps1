@@ -1,12 +1,12 @@
 ﻿$A3SERVERdir = "G:\FAILARMY\Applications\Games\ArmA3\A3_FailArmyServer01"
 $A3SERVERexe = "$A3SERVERdir\arma3server.exe"
 
-$MODSParam = "-mod=" #TODO: Make MODSParam and MODS work as one variable.
-
+$MODSParam = "-mod="
 $MODS = @("@Epoch",
 			"@epochhive",
             "@allinarmaterrainpack"
             )
+
 $CONFIG = "-config=$A3SERVERdir\config\A3EpochServer.cfg"
 $CFG = "-cfg=$A3SERVERdir\config\users\A3Server.cfg"
 $PROFILES = "-profiles=$A3SERVERdir\SC"
@@ -25,3 +25,4 @@ foreach ($mod in $MODS)
 }
 
 & $A3SERVERexe $MODSParam $CONFIG $CFG $PROFILES $PORT $OPTIONS
+Start-Process $A3SERVERdir\DB\start-redis.cmd
